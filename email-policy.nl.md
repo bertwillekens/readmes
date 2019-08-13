@@ -5,7 +5,7 @@
 - E-mail lezen: 3 keer per dag (weekend 1 keer per dag)
 - E-mail replyen: Direct, mits het in minder dan 3 minuten kan
 - E-mail sturen: De hele dag door
-- **Direct in contact komen? Stuur een berichtje op WhatsApp, of per SMS.** Als het echt dringend is, mag je me ook bellen.\*\*
+- **Direct in contact komen? Stuur een berichtje op WhatsApp, of per SMS.** Als het echt dringend is, mag je me ook bellen.
 
 ---
 
