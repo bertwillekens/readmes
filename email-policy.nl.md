@@ -1,4 +1,6 @@
-**De grootste aanslag op productiviteit is e-mail.** Het lezen van e-mail, het schrijven van e-mail, notificaties over e-mail. E-mail zit tegenwoordig overal en vraagt nogal eens wat aandacht. Daarom gebruik ik dit e-mailbeleid (gebaseerd op het E-mailbeleid van Reinier Ladan) met als doel e-mail behapbaar te houden en in goede banen te leiden.
+# E-mailbeleid van Bert Willekens
+
+**De grootste aanslag op productiviteit is e-mail.** Het lezen van e-mail, het schrijven van e-mail, notificaties over e-mail. E-mail zit tegenwoordig overal en vraagt nogal eens wat aandacht. Daarom gebruik ik dit e-mailbeleid (gebaseerd op het [E-mailbeleid](https://reinierladan.nl/emailbeleid/) van Reinier Ladan) met als doel e-mail behapbaar te houden en in goede banen te leiden.
 
 - E-mail lezen: 3 keer per dag (weekend 1 keer per dag)
 - E-mail replyen: Direct, mits het in minder dan 3 minuten kan
@@ -48,4 +50,4 @@ Dit betekent niet dat ik nooit zal antwoorden op je berichtje via Messenger of T
 
 Wil je me helpen met het beter maken van dit e-mail beleid? Stuur dan je opmerkingen naar bert@willekens.email.
 
-Gebaseerd op E-mailbeleid door <a href="https://reinierladan.nl" rel="cc:attributionURL">Reinier Ladan</a>, met de volgende licentie: <a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</a>.
+Gebaseerd op [E-mailbeleid](https://reinierladan.nl/emailbeleid/) door <a href="https://reinierladan.nl" rel="cc:attributionURL">Reinier Ladan</a>, met de volgende licentie: <a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</a>.
