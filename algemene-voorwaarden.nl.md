@@ -4,7 +4,7 @@
 
 1. Om de leesbaarheid te bevorderen maken we in deze algemene voorwaarden gebruik van de ‘wij-vorm’. ‘We’, ‘wij’ en ‘ons’ duiden op de eenmanszaak Bert Willekens (ondernemingsnummer 0834.143.382).
 
-2. Onder ‘De opdracht’ en ‘de werkzaamheden’ kunnen onder meer de volgende diensten vallen: consultancy-uren, ontwerpwerkzaamheden en ontwikkel- en programmeerwerkzaamheden.
+2. Onder ‘de opdracht’ en ‘de werkzaamheden’ kunnen onder meer de volgende diensten vallen: consultancy-uren, ontwerpwerkzaamheden en ontwikkel- en programmeerwerkzaamheden.
 
 3. ‘U’ en ‘uw’ duiden op de klant of het bedrijf waarvoor de werkzaamheden worden uitgevoerd.
 
