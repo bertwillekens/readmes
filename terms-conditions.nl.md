@@ -4,7 +4,7 @@
 
 1. Om de leesbaarheid te bevorderen maken we in deze algemene voorwaarden gebruik van de ‘wij-vorm’. ‘We’, ‘wij’ en ‘ons’ duiden op de eenmanszaak Bert Willekens (ondernemingsnummer 0834.143.382).
 
-2. Onder ‘de opdracht’ en ‘de werkzaamheden’ kunnen onder meer de volgende diensten vallen: consultancy-uren, ontwerpwerkzaamheden en ontwikkel- en programmeerwerkzaamheden.
+2. Onder ‘De opdracht’ en ‘de werkzaamheden’ kunnen onder meer de volgende diensten vallen: consultancy-uren, ontwerpwerkzaamheden en ontwikkel- en programmeerwerkzaamheden.
 
 3. ‘U’ en ‘uw’ duiden op de klant of het bedrijf waarvoor de werkzaamheden worden uitgevoerd.
 
@@ -20,19 +20,17 @@
 
 ## 3. Totstandkoming van een overeenkomst
 
-1. Al onze offertes zijn vrijblijvend, tenzij we dit anders hebben aangegeven.
+1. Al onze offertes zijn één maand geldig, tenzij anders vermeld op de offerte.
 
-2. Al onze offertes zijn één maand geldig, tenzij anders vermeld op de offerte.
+2. Er ontstaat een overeenkomst als u goedkeuring geeft op onze offerte.
 
-3. Er ontstaat een overeenkomst als u goedkeuring geeft op onze offerte.
+3. Als u de offerte goedkeurt, moet u dit ons schriftelijk laten weten. Dit kan ook via e-mail.
 
-4. Als u de offerte goedkeurt, moet u dit ons schriftelijk laten weten. Dit kan ook via e-mail.
-
-5. Als u geen schriftelijke goedkeuring geeft, maar er wel mee instemt dat wij starten met de opdracht of meewerkt aan de uitvoering van de opdracht, geldt dit ook als goedkeuring van de offerte.
+4. Als u geen schriftelijke goedkeuring geeft, maar wel meewerkt aan de uitvoering van de opdracht, geldt dit ook als goedkeuring van de offerte.
 
 ## 4. Annulering van een overeenkomst
 
-1. De overeenkomst is opzegbaar met een opzegtermijn van 2 weken. Bij opzegging zullen wij onze gemaakte uren aan u in rekening brengen, rekening houdend met de opzegtermijn.
+1. De overeenkomst is opzegbaar met een opzegtermijn van 2 weken. Bij opzegging zullen wij onze gemaakte uren aan u in rekening brengen. Uren die nog gemaakt worden binnen de opzegtermijn, zullen ook in rekening gebracht worden.
 
 ## 5. Scope en prijs van een opdracht
 
@@ -58,7 +56,9 @@
 
 ## 7. Garantie
 
-1. We doen ons best om de opdracht zonder bugs of problemen op te leveren. Fouten en andere problemen kunnen echter voorkomen. Enkel als deze fouten of problemen verband houden met de overeengekomen scope en deze binnen 1 maand na oplevering (launch) aan ons worden gemeld, zullen we deze oplossen zonder meerkost. We verstrekken geen verdere garanties.
+1. We doen ons best om de opdracht zonder bugs of problemen op te leveren. Fouten en andere problemen kunnen echter voorkomen. Enkel als deze fouten of problemen verband houden met de overeengekomen scope en deze binnen 1 maand na oplevering (launch) aan ons worden gemeld, zullen we deze oplossen zonder meerkost.
+
+2. Daarnaast is de Europese wettelijke garantieregeling van toepassing. Wij verstrekken geen verdere garanties.
 
 ## 8. Betaling
 
