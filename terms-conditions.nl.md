@@ -26,7 +26,7 @@
 
 3. Als u de offerte goedkeurt, moet u dit ons schriftelijk laten weten. Dit kan ook via e-mail.
 
-4. Als u geen schriftelijke goedkeuring geeft, maar wel meewerkt aan de uitvoering van de opdracht, geldt dit ook als goedkeuring van de offerte.
+4. Als u geen schriftelijke goedkeuring geeft, maar wel duidelijk meewerkt op eender welke wijze aan de uitvoering van de opdracht, geldt dit ook als goedkeuring van de offerte.
 
 ## 4. Annulering van een overeenkomst
 
@@ -58,7 +58,7 @@
 
 1. We doen ons best om de opdracht zonder bugs of problemen op te leveren. Fouten en andere problemen kunnen echter voorkomen. Enkel als deze fouten of problemen verband houden met de overeengekomen scope en deze binnen 1 maand na oplevering (launch) aan ons worden gemeld, zullen we deze oplossen zonder meerkost.
 
-2. Daarnaast is de Europese wettelijke garantieregeling van toepassing. Wij verstrekken geen verdere garanties.
+2. Daarnaast respecteren wij de wettelijke garantiebepalingen ten aanzien van particuliere consumenten. Bijkomend geven wij geen garanties.
 
 ## 8. Betaling
 
